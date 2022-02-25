@@ -3267,6 +3267,9 @@ input[type="button"].btn-block {
     -ms-flex-pack: justify;
     justify-content: space-between; }
 
+.navbar-brand img {
+  border-radius: 12px;
+}
 .navbar-brand {
   display: inline-block;
   padding-top: 0.3125rem;
